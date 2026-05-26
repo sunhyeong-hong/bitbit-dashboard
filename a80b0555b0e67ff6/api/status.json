@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T14:48:02+00:00",
+  "updated_at": "2026-05-26T15:24:15+00:00",
   "mode": "LIVE (실거래)",
   "started_at": "2026-05-26T13:51:09+00:00",
   "last_processed_candle": "2026-05-26 08:00:00+00:00",
@@ -20,19 +20,5 @@
   "positions": [],
   "trade_count": 0,
   "win_rate_pct": 0,
-  "last_price_usd": 76883.19,
-  "latest_market": {
-    "timestamp": "2026-05-26 08:00:00+00:00",
-    "btc_close": 77183.55,
-    "btc_volume": 1897.0,
-    "fng_value": null,
-    "macro_bull": false,
-    "macro_bear": true,
-    "macro_bull_stable": false,
-    "ema200_pct": -0.21,
-    "atr_pct": 0.93,
-    "vol_x_ma20": 1.07,
-    "is_chop": true,
-    "is_capitulation": false
-  }
+  "last_price_usd": 76715.32
 }
