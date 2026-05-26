@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T14:42:56+00:00",
+  "updated_at": "2026-05-26T14:48:02+00:00",
   "mode": "LIVE (실거래)",
   "started_at": "2026-05-26T13:51:09+00:00",
   "last_processed_candle": "2026-05-26 08:00:00+00:00",
@@ -20,7 +20,7 @@
   "positions": [],
   "trade_count": 0,
   "win_rate_pct": 0,
-  "last_price_usd": 76807.04,
+  "last_price_usd": 76883.19,
   "latest_market": {
     "timestamp": "2026-05-26 08:00:00+00:00",
     "btc_close": 77183.55,
