@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T16:05:20+00:00",
+  "updated_at": "2026-05-27T16:36:33+00:00",
   "mode": "LIVE (실거래)",
   "started_at": "2026-05-26T13:51:09+00:00",
   "last_processed_candle": "2026-05-27 12:00:00+00:00",
@@ -18,7 +18,7 @@
     "pnl_krw": -13
   },
   "positions": [],
-  "trade_count": 0,
-  "win_rate_pct": 0,
-  "last_price_usd": 75248.97
+  "trade_count": 1,
+  "win_rate_pct": 0.0,
+  "last_price_usd": 75032.28
 }
