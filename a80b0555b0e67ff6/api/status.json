@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-12T00:05:20+00:00",
+  "updated_at": "2026-06-12T04:05:23+00:00",
   "mode": "LIVE (실거래)",
   "started_at": "2026-05-26T13:51:09+00:00",
-  "last_processed_candle": "2026-06-11 20:00:00+00:00",
+  "last_processed_candle": "2026-06-12 00:00:00+00:00",
   "killed": false,
   "capital": {
     "starting_usd": 39.81,
-    "current_usd": 37.92,
+    "current_usd": 37.87,
     "usdt": 0.4107,
     "btc": 0.00059,
-    "btc_value_usd": 37.51,
-    "pnl_usd": -1.89,
-    "pnl_pct": -4.75,
+    "btc_value_usd": 37.46,
+    "pnl_usd": -1.94,
+    "pnl_pct": -4.87,
     "mdd_pct": 98.97,
     "starting_krw": 52947,
-    "current_krw": 50434,
-    "pnl_krw": -2514
+    "current_krw": 50367,
+    "pnl_krw": -2580
   },
   "positions": [],
   "trade_count": 1,
   "win_rate_pct": 0.0,
-  "last_price_usd": 63575.99
+  "last_price_usd": 63486.0
 }
