@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T08:05:47+00:00",
+  "updated_at": "2026-08-24T12:05:33+00:00",
   "mode": "LIVE (실거래)",
   "started_at": "2026-05-26T13:51:09+00:00",
-  "last_processed_candle": "2026-08-24 04:00:00+00:00",
+  "last_processed_candle": "2026-08-24 08:00:00+00:00",
   "killed": true,
   "capital": {
     "starting_usd": 39.81,
@@ -20,5 +20,5 @@
   "positions": [],
   "trade_count": 1,
   "win_rate_pct": 0.0,
-  "last_price_usd": 77250.0
+  "last_price_usd": 78221.82
 }
